@@ -6,13 +6,11 @@
 - Pradyumna Kaushik
 
 ## **Software Requirements**
-============================
 - GCC version 5.2.0 and upwards.
 
 Note: *Any lower version may result in underfined behaviour including compilation errors and memory corruptions.*
 
 ## **Instructions to run the shell**
-====================================
 - Compile the source code using Makefile using the following command,  
 
   ```
@@ -33,7 +31,6 @@ Note: *Any lower version may result in underfined behaviour including compilatio
   ```
 
 ## **Fallback Compilation Instructions if 'make' fails**
-=======================================================
 NOTE: *SKIP THIS SECTION IF make was successful i.e. if make did not throw errors.*
 
 - Compile the source code using the following command,  
