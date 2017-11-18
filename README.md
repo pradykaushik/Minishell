@@ -57,7 +57,7 @@ NOTE: *SKIP THIS SECTION IF make was successful i.e. if make did not throw error
    *This link has more information about this --* https://lists.ubuntu.com/archives/foundations-bugs/2012-May/089662.html
 
 - Continuing a suspended process in foreground works fine, but after the process completes  
-  execution it goes into an infinite loop. You will need to hit <Ctrl-C> to get back the prompt.
+  execution it goes into an infinite loop. You will need to hit `<Ctrl-C>` to get back the prompt.
 
 ## **References**
 http://stackoverflow.com/questions/19814906/which-child-process-send-sigchld
